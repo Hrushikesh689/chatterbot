@@ -1,0 +1,107 @@
+hai?
+hello
+
+who is cse HoD?
+Dr.chandra sekhar
+
+Can i get Hod sir's mobile number?
+mob no:- 9949716016 
+
+cse syllabus?
+<a target="_blank" href="http://127.0.0.1:8000/static/upload/cse.pdf"/>CSE </a>
+
+who is the college principal?
+Dr.S.N.V.Ganesh
+
+who is the principal?
+Dr.S.N.V.Ganesh
+
+can i get principal sir's mobile number?
+8978402146
+
+who is the placement officer of this college?
+Dr.Ranjitkumar
+
+what are the branches for btech?
+Cse Ece Eee Civil Mech
+
+cns pdf?
+<a target="_blank" href="http://127.0.0.1:8000/static/upload/cns.pdf"/>cns</a>
+
+who is ece hod?
+Mr.V.Shiva Bhaskar Rao
+
+who is hod of basic science and humanities?
+J.R.G.Patnaik
+
+where is the library?
+It is in first year block ground floor
+
+where is the administaration office?
+It is in main block ground floor
+
+what is the fees for cse?
+60000
+
+where is the hostel?
+It is in the B.Pharmacy block and Ece block
+
+where is the canteen?
+It is beside Mechnical block and another one in Eee block
+
+where is the auditorium?
+It is near by Eee block and out gate
+
+where is the seminar hall?
+It is at canteen upstairs and another one in Ece floor
+
+who is the warden of the hostel?
+mounika and venu sri
+
+who is the chairman of the college?
+Sri.M.Srinivas Rao garu 
+
+Is there any gym in this college?
+Yes,It is in mechnical block
+
+How many labs are there in  this college?
+For chemistry 1 lab for physics 1 lab for cse 4 labs for mechnical 2 labs for ece 2 labs for civil 2 labs for eee 2 labs
+
+what type of games are there in this college?
+Indoor games chess carrom tabletennis  outdoor games cricket basketball running throwball kabadi kho-kho shuttle
+
+In this college is any stationary?
+Yes,we have this facility also
+
+Is there any E-learning classroom?
+Yes,we have this facility also
+
+How many labs for cse?
+4 labs and E-learning classroom also
+
+How many labs for eee?
+2 labs
+
+How many labs for ece?
+3 labs
+
+How many labs for civil?
+3 labs
+
+How many labs for mechanical?
+3 labs and cad lab also
+
+How many cse branch seats are available in college?
+180
+
+How to check sem results?
+www.avanthiportal.in
+
+How many students  are getting placed average in every year?	
+80%
+
+
+
+
+
+
